@@ -1,0 +1,23 @@
+body {
+  background-color: #121212;
+}
+
+#attribution-text {
+  text-align: center;
+  color: #ededed;
+  font-family: "Manrope", sans-serif;
+}
+
+#hero-container {
+  text-align: center;
+}
+
+#hero-image {
+  width: 75%;
+  max-width: 900px;
+}
+
+#so-bio-logo {
+  width: 75%;
+  max-width: 600px;
+}
